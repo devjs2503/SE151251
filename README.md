@@ -1,10 +1,3 @@
-<h2 align="center"> Hi 👋 , I'm Nguyen Ho Tien Dat <br/></h2><br>
-
-<h2> ⛅•💻 About Me </h2>
-
- 🎓 &nbsp; Studying Software Engineering at FPT University HCMC
-
-
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Java ☕ | C  ++ | C | SQL Server
