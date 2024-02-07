@@ -2,7 +2,7 @@
 
 - 💻 &nbsp; Javascript | SQL Server | MongoDB
 
-- 🌐 &nbsp; HTML5 | CSS3 | ReactJS | NextJS | Material UI
+- 🌐 &nbsp; HTML5 | CSS3 | ReactJS | NextJS | Material UI | NodeJS
 
 <hr>
 <h3> 🤝🏻 Connect with Me </h3>
