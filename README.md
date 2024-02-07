@@ -1,11 +1,8 @@
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java ☕ | C  ++ | C | SQL Server
+- 💻 &nbsp; Javascript | SQL Server | MongoDB
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS 
-
-- 🛠 Tool  : NetBeans, VScode, DevC, Microsoft SQL Server Management Studio
-
+- 🌐 &nbsp; HTML5 | CSS3 | ReactJS | NextJS | Material UI
 
 <hr>
 <h3> 🤝🏻 Connect with Me </h3>
